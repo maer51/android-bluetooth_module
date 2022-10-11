@@ -27,10 +27,12 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
   <tr>
     <td><b>1.블루투스 활성화</b></td>
      <td><b>2.블루투스 연결</b></td>
+     <td><b>3.컴퓨터 화면</b></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/115002427/195007823-25e0a841-5aac-4305-b9a0-5a637cc6f877.gif" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/115002427/195016856-077eda0e-dff6-4f82-803e-c44142ee1c7d.gif" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/115002427/195022639-10f73dec-9c68-4237-8379-7e852a8e4af6.gif" width=270 height=480></td>
   </tr>
  </table>
  
@@ -40,3 +42,6 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
  
  
  <img src="https://user-images.githubusercontent.com/115002427/195016856-077eda0e-dff6-4f82-803e-c44142ee1c7d.gif" width=270 height=480>
+ 
+ <img src="https://user-images.githubusercontent.com/115002427/195022639-10f73dec-9c68-4237-8379-7e852a8e4af6.gif" width=270 height=480>
+
