@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/robot/AndroidStudioProjects/BLUETOOTH-PIC/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master10/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master2/app/src/main/res/layout/activity_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master3/app/src/main/res/drawable/grandmother_background.xml" value="0.19" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master3/app/src/main/res/layout/activity_main.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master4/app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master7/app/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master7/app/src/main/res/layout/subactivity_main.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master8/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/robot/AndroidStudioProjects/Dialogflow-Android-Project-master9/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
