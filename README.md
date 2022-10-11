@@ -26,7 +26,7 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
 <table>
   <tr>
     <td><b>1.블루투스 활성화</b></td>
-     <td><b>2.텍스트 입력</b></td>
+     <td><b>2.블루투스 연결</b></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/115002427/195007823-25e0a841-5aac-4305-b9a0-5a637cc6f877.gif" width=270 height=480></td>
