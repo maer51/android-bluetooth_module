@@ -47,6 +47,17 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
   </tr>
  </table>
  
+  <table>
+  <tr>
+     <td><b>5.블루투스 수신</b></td>
+     <td><b>6.안드로이드 화면</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/115002427/195025523-cd60613f-d1cf-4f52-a884-d4dcf70a01b2.gif" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/115002427/195022639-10f73dec-9c68-4237-8379-7e852a8e4af6.gif" width=270 height=480></td>
+  </tr>
+ </table>
+ 
  
  
  <img src="https://user-images.githubusercontent.com/115002427/195007823-25e0a841-5aac-4305-b9a0-5a637cc6f877.gif" width=270 height=480>
@@ -57,4 +68,6 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
  <img src="https://user-images.githubusercontent.com/115002427/195022639-10f73dec-9c68-4237-8379-7e852a8e4af6.gif" width=270 height=480>
  
   <img src="https://user-images.githubusercontent.com/115002427/195023966-e5b27875-4eb3-49bc-8878-ca4e1e6c61e1.gif" width=270 height=480>
+  
+  <img src="https://user-images.githubusercontent.com/115002427/195025523-cd60613f-d1cf-4f52-a884-d4dcf70a01b2.gif" width=270 height=480>
 
