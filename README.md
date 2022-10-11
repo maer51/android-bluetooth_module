@@ -25,11 +25,15 @@ BLUETOOTH와 BLUETOOTH MODULE과 연결하는 앱
 ## 사용 시
 <table>
   <tr>
-    <td><b>1.음성인식</b></td>
+    <td><b>1.블루투스 활성화</b></td>
      <td><b>2.텍스트 입력</b></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/115002427/194075105-06d7a964-bec7-4119-babb-049010af12b6.gif" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/115002427/195007823-25e0a841-5aac-4305-b9a0-5a637cc6f877.gif" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/115002427/194076577-fffbeb53-9fbb-4cbe-b593-d816c57d4fa9.gif" width=270 height=480></td>
   </tr>
  </table>
+ 
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/115002427/195007823-25e0a841-5aac-4305-b9a0-5a637cc6f877.gif" width=270 height=480>
